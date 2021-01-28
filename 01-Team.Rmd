@@ -1,0 +1,26 @@
+---
+title: "Results Challenge 1"
+description: |
+  Some additional details about the website
+  
+author:
+  - name: Student AFTER 1
+    affiliation: Tieurs lieux 1
+    affiliation_url: ' '
+    footnote: 1
+  - name: Student AFTER 2
+    affiliation: Tieurs lieux 2
+    affiliation_url: ' '
+  - name: Student AFTER 3
+    affiliation: Tieurs lieux 3
+    affiliation_url: ' '
+    footnote: 1
+  - name: Student AFTER 4
+    affiliation: Tieurs lieux 4
+    affiliation_url: ' '  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
