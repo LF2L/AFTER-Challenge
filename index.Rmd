@@ -1,5 +1,6 @@
 ---
-title: 'Cas pratique: Animateur Facilitateur de Tiers-Lieux Eco-Responsables'
+title: |
+  Cas pratique: Animateur Facilitateur de Tiers-Lieux Eco-Responsables
 description: |
   Cas pratique des récyclages de matériaux
 author:
