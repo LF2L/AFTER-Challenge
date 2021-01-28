@@ -1,7 +1,7 @@
 ---
 title: 'Cas pratique: Animateur Facilitateur de Tiers-Lieux Eco-Responsables'
 description: |
-  Cas pratique récyclages de matériaux
+  Cas pratique des récyclages de matériaux
 author:
   - name: Hakim Boudaoud
     url: https://erpi.univ-lorraine.fr/people/Hakim-Boudaoud
@@ -44,9 +44,12 @@ Nous pouvons définir ici deux problématiques:
 1. Un espace *atelier mécanique* va s'implanter dans les locaux pour assurer un parc de machines afin de répondre aux besoins de création de prototypes usines.
 2. Au vu de cette transformation, les tables de travail devront être reconfigurées et imaginées autrement. 
 
-```{r, fig.show = "hold", out.height="160px", fig.align = "center"}
-
+```{r, layout="l-body", out.width="90%", fig.align = "center", fig.cap=' Challenge 1'}
 knitr::include_graphics("figures/Atelier.jpg")
+```
+
+
+```{r, layout="l-page",  out.width="90%", fig.align = "center", fig.cap=' Challenge 2'}
 knitr::include_graphics("figures/Table.jpg")
 
 ```

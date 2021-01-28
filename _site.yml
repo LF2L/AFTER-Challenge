@@ -7,7 +7,7 @@ output_dir: "docs"
 exclude: ["pdf/", "*.csv"]
 navbar:
   logo:
-    image: images/logo.png
+    image: https://raw.githubusercontent.com/fabbiocrux/Figures/main/AFTER/Logo.png
     href: https://www.rstudio.com
   source_url: https://github.com/LF2L/AFTER-Challenge
   right:
@@ -17,4 +17,7 @@ navbar:
       href: 01-Team.html
     - text: "Groupe 2"  
       href: 02-Team.html
-output: distill::distill_article
+output:
+    distill::distill_article:
+      includes:
+        in_header: assets/header.html

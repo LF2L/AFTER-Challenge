@@ -22,8 +22,8 @@
           "url": {}
         }
       ],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-01-28T08:03:07+01:00"
+      "contents": "\n      \n        \n      \n    \n  ",
+      "last_modified": "2021-01-28T08:32:08+01:00"
     },
     {
       "path": "02-Team.html",
@@ -47,13 +47,13 @@
           "url": {}
         }
       ],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-01-28T08:03:08+01:00"
+      "contents": "\n      \n        \n      \n    \n  ",
+      "last_modified": "2021-01-28T08:32:09+01:00"
     },
     {
       "path": "index.html",
       "title": "Cas pratique: Animateur Facilitateur de Tiers-Lieux Eco-Responsables",
-      "description": "Cas pratique récyclages de matériaux\n",
+      "description": "Cas pratique des récyclages de matériaux\n",
       "author": [
         {
           "name": "Hakim Boudaoud",
@@ -64,8 +64,8 @@
           "url": {}
         }
       ],
-      "contents": "\nObjectifs\n\nCe travail est une mise en pratique des différentes compétences autour du métier d’animateur de tiers-lieu eco-responsable. Dans les parcours, vous avez eu des éléments sur la conception, une sensibilisation sur l’analyse des besoins et enfin vu le design thinking comme outil pour la création de nouveaux produits/solutions. De plus, vous avez été sensibilisé aux notions de fabrication et recyclage distribué.\n\nContexte du travail\nDans la stratégie du Lorraine Fab Living Lab (comme pour tous les tiers- lieux), l’optimisation de l’espace de travail est un facteur très important à considérer. Nous pouvons définir ici deux problématiques:\nUn espace atelier mécanique va s’implanter dans les locaux pour assurer un parc de machines afin de répondre aux besoins de création de prototypes usines.\nAu vu de cette transformation, les tables de travail devront être reconfigurées et imaginées autrement.\n\n\n\nEn tant qu’animateur de tiers-lieu eco-responsable, vous êtes en charge de trouver une option d’ameublement qui soit cohérente avec l’usage des lieux.\nVu que c’est un espace un peu particulier, il n’y a pas de mobilier sur le marché qui réponde aux besoins, ni pour l’atelier ni pour les tables.\nL’espace présente également certaines contraintes:\nLa proposition doit garantir l’accessibilité aux outils et matériaux de façon érgonomique pour l’atelier et pour la personne qui s’installe aux tables pour travailler.\nAvoir une espace propre et facile à nettoyer s’avère être un élément important.\nIl n’est pas possible de percer les murs.\nPouvoir mobiliser et ajuster la configuration de l’espace facilement est aussi un élément essentiel.\nChallenge\nIl s’agira de former deux groupes, chaque groupe traitera un sujet différent.\nVous devez faire une proposition globale d’ammeublement qui prend en compte ces trois aspects complémentaires: 1) la faisabilité, 2) la durabilité et 3) l’attractivité\nPour cela, dans le dépôt de Github vous trouverez quelques éléments de démarrage du projet:\nPlan Skech-up du LF2L.\nPlan.\nDémarche\nPour résoudre ce problème, vous allez développer une démarche en trois phases bien distinctes:\nPrototype pour l’attractivité (PA): Cette phase correspond à la création des prototypes qui ont comme objectif la validation d’un concept solution à partir d’une analyse de besoins.\nPA se focalise sur la satisfaction et la valeur perçue par l’utilisateur final, donc cette phase encourage l’animateur du tiers-lieux à explorer une grande quantité d’options avec l’utilisateur final.\nQuelques questions pour enrichir et diriger la réflexion:\nQui sont les utilisateurs et les parties prenantes de cet espace ?\nQuels sont les besoins des parties prenantes ?\nProtypage pour Faisabilité & Durabilité (PFD): Cette phase correspondant à la convergence et à la validation technique globale d’une solution en considérant des sous-systèmes choisis.\nQuelques questions pour orienter la réflexion:\nDans une optique de conception DIY, quels sont les éléments qui peuvent être fabriqués avec les moyens techniques disponibles au LF2L?\nQuels sont les éléments qui peuvent être issus de l’impression 3D recyclé ?\n\nPeut-on avoir une liste de composants ?\nPrototypage pour la Viabilité (PV): Cette phase correspond à la validation detaillée de l’espace et des objets qui en feront partie.\nQuelques questions pour orienter la réflexion:\nCombien d’objets feront partie de cet espace?\nRapport entre les objets achetés/fabriqués?\nRendu Final\nVous devez faire une proposition où il faut retrouver:\nL’analyse de besoins des utilisateurs pour chaque problématique.\nUn canevas pour chaque étape de prototypage (PA, PFD, PV) (au moins 1)\nAu moins un canevas prototype visuel (Dessin, Maquette, Image VR) pour chaque étape avec son canevas respectif.\n\nL’identification des objets qui peuvent être issus d’une fabrication par des acteurs locaux.\nLa liste et l’identification des objets qui peuvent être issus d’une fabrication locale in-situ avec les moyens du LF2L.\nRéférences à consulter\nMenold, J., Jablokow, K., Simpson, T., 2017. Prototype for X (PFX): A holistic framework for structuring prototyping methods to support engineering design. Des. Stud. 50, 70–112. https://doi.org/10.1016/j.destud.2017.03.001\nLauff, C., Menold, J.;, Wood, K.L., 2019. Prototyping Canvas: Design Tool for Planning Purposeful Prototypes 5–8. https://doi.org/10.1017/dsi.2019.162\nPrototyping canva www.dimodules.com/prototypingcanvas\nCamburn, B., Viswanathan, V., Linsey, J., Anderson, D., Jensen, D., Crawford, R., Otto, K., Wood, K., 2017. Design prototyping methods: State of the art in strategies, techniques, and guidelines. Des. Sci. 3. https://doi.org/10.1017/dsj.2017.10\n\n\n\n",
-      "last_modified": "2021-01-28T08:03:09+01:00"
+      "contents": "\n      \n        \n      \n    \n  ",
+      "last_modified": "2021-01-28T08:32:10+01:00"
     }
   ],
   "collections": []
