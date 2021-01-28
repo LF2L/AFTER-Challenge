@@ -136,7 +136,7 @@ Vous devez faire une proposition où il faut retrouver:
 
 - Lauff, C., Menold, J.;, Wood, K.L., 2019. Prototyping Canvas: Design Tool for Planning Purposeful Prototypes 5–8. https://doi.org/10.1017/dsi.2019.162
 
-- Prototyping canva [www.dimodules.com/prototypingcanvas](www.dimodules.com/prototypingcanvas)
+- [Prototyping canva](https://www.dimodules.com/prototypingcanvas)
 
 - Camburn, B., Viswanathan, V., Linsey, J., Anderson, D., Jensen, D., Crawford, R., Otto, K., Wood, K., 2017. Design prototyping methods: State of the art in strategies, techniques, and guidelines. Des. Sci. 3. https://doi.org/10.1017/dsj.2017.10
 

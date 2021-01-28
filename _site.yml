@@ -13,6 +13,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Docs LF2L"
+      href: https://github.com/LF2L/AFTER-Challenge/tree/main/LF2L-docs
     - text: "Groupe 1"
       href: 01-Team.html
     - text: "Groupe 2"  
