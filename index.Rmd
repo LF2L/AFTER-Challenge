@@ -3,9 +3,13 @@ title: 'Cas pratique: Animateur Facilitateur de Tiers-Lieux Eco-Responsables'
 description: |
   Cas pratique des récyclages de matériaux
 author:
+  - name: Benjamin Ennesser-Serville
+    url: https://erpi.univ-lorraine.fr/people/Benjamin-Enneser-Serville/
+    affiliation: Université de Lorraine, ERPI, F-54000 Nancy, France
+    affiliation_url: https://erpi.univ-lorraine.fr
+    footnote: 1   
   - name: Hakim Boudaoud
     url: https://erpi.univ-lorraine.fr/people/Hakim-Boudaoud
-    email: hakim.boudaoud
     affiliation: Université de Lorraine, ERPI, F-54000 Nancy, France
     affiliation_url: https://erpi.univ-lorraine.fr
     footnote: 1

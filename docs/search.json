@@ -23,7 +23,7 @@
         }
       ],
       "contents": "\n      \n        \n      \n    \n  ",
-      "last_modified": "2021-01-28T09:03:12+01:00"
+      "last_modified": "2021-01-28T10:03:38+01:00"
     },
     {
       "path": "02-Team.html",
@@ -48,13 +48,17 @@
         }
       ],
       "contents": "\n      \n        \n      \n    \n  ",
-      "last_modified": "2021-01-28T09:03:13+01:00"
+      "last_modified": "2021-01-28T10:03:39+01:00"
     },
     {
       "path": "index.html",
       "title": "Cas pratique: Animateur Facilitateur de Tiers-Lieux Eco-Responsables",
       "description": "Cas pratique des récyclages de matériaux\n",
       "author": [
+        {
+          "name": "Benjamin Ennesser-Serville",
+          "url": "https://erpi.univ-lorraine.fr/people/Benjamin-Enneser-Serville/"
+        },
         {
           "name": "Hakim Boudaoud",
           "url": "https://erpi.univ-lorraine.fr/people/Hakim-Boudaoud"
@@ -65,7 +69,7 @@
         }
       ],
       "contents": "\n      \n        \n      \n    \n  ",
-      "last_modified": "2021-01-28T09:03:13+01:00"
+      "last_modified": "2021-01-28T10:03:39+01:00"
     }
   ],
   "collections": []
